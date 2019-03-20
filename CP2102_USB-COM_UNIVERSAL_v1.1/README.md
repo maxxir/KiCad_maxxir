@@ -8,7 +8,7 @@ and DTR/RTS for Serial Bootloader (Arduino/AVR, LPCxxxx, STM32)
 
 #### This is my own custom board looks like:
 
-<img src="../master/CP2102_USB-COM_UNIVERSAL_v1.1/pictures/CP2102_USB-COM_UNIVERSAL_v1.1_3D_top.png" alt="m1284p Board 3D Top" width="50%" height="50%">
+<img src="../pictures/CP2102_USB-COM_UNIVERSAL_v1.1_3D_top.png" alt="m1284p Board 3D Top" width="50%" height="50%">
 
 
 ## Author
