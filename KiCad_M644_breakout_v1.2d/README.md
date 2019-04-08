@@ -4,7 +4,7 @@ Compatible with Arduino Sanguino/Mightycore
 
 #### Schematic:
 
-<img src="../CP2102_USB-COM_UNIVERSAL_v1.1/pictures/CP2102_USB-COM_UNIVERSAL_v1.1_schematic.png" alt="m1284p System photo" width="100%" height="100%">
+<img src="../KiCad_M644_breakout_v1.2d/Pictures/M644_breakout_v1.2d_schematic.png" alt="m1284p System photo" width="100%" height="100%">
 
 #### This is my own custom board looks like:
 
