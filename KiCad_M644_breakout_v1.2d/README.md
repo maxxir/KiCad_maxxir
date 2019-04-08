@@ -7,8 +7,7 @@
 * R-dividers for 3.3V-TTL on UART TX0 / TX1.
 * SPI pins for 3 devices connected to (for example):
 Ethernet (Wiz5500 / ENC28J60), Sd-Card, CAN MCP2515 and so on ...
-
-**Compatible with Arduino Sanguino/Mightycore**
+* Compatible with Arduino Sanguino/Mightycore
 
 #### Schematic:
 
