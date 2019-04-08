@@ -4,7 +4,7 @@ Compatible with Arduino Sanguino/Mightycore
 
 #### Schematic:
 
-<img src="../KiCad_M644_breakout_v1.2d/Pictures/M644_breakout_v1.2d_schematic.png" alt="m1284p System photo" width="80%" height="80%">
+<img src="../KiCad_M644_breakout_v1.2d/Pictures/M644_breakout_v1.2d_schematic.png" alt="m1284p System photo" width="90%" height="90%">
 
 #### This is my own custom board looks like:
 
