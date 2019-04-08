@@ -1,6 +1,6 @@
 # AtMega 8535/16/32/324/644/1284 generic board
 
-Compatible with Arduino Sanguino/Mightycore 
+**Compatible with Arduino Sanguino/Mightycore **
 
 #### Schematic:
 
