@@ -8,7 +8,7 @@ Compatible with Arduino Sanguino/Mightycore
 
 #### This is my own custom board looks like:
 
-<img src="../CP2102_USB-COM_UNIVERSAL_v1.1/pictures/CP2102_USB-COM_UNIVERSAL_v1.1_3D_top.png" alt="m1284p Board 3D Top" width="50%" height="50%">
+<img src="../KiCad_M644_breakout_v1.2d/Pictures/M644_breakout_v1.2d-a_top.png" alt="m1284p Board 3D Top" width="50%" height="50%">
 
 
 ## Author
