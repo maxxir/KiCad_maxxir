@@ -1,13 +1,10 @@
 # SD Card and SPI FLASH reader for 5V TTL MCU
 
 ### Briefly about the features of the scheme:
-* Nearly all GPIO pins connected to PLS terminals.
-* Two GPIOs are connected: button (SW1 / PC5) and the LED (LED1 / PC4).
-* External pull-up on UART RX0 / RX1.
-* R-dividers for 3.3V-TTL on UART TX0 / TX1.
-* SPI pins for 3 devices connected to (for example):
-Ethernet (Wiz5500 / ENC28J60), Sd-Card, CAN MCP2515 and so on ...
-* Compatible with **Arduino Sanguino/Mightycore**
+* For 5V tolerance used HEF4050BT/CD74HC4050(preferable) Hex Non-Inverting Buffers IC.
+* SPI FLASH compatible IC: M25P08/25LC256-512-1024/25AA02E48(Microchip OUI MAC GEN)
+* Tested with M644_breakout_v1.2d
+* Can be connected to any **Arduino**
 
 #### Schematic:
 
