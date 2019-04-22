@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SD_CARD_and_SPI_FLASH_v2.2-eagle-import)(type Legacy)(uri ${KIPRJMOD}/SD_CARD_and_SPI_FLASH_v2.2-eagle-import.lib)(options "")(descr ""))
+)
