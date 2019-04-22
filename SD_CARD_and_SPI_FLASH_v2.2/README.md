@@ -12,12 +12,8 @@
 
 #### This is my own custom board looks like:
 
-<img src="../KiCad_M644_breakout_v1.2d/Pictures/M644_breakout_v1.2d-a_top.png" alt="m1284p 3D top" width="50%" height="50%">
-
-#### Pinmap board (Sanguino notation):
-
-<img src="../KiCad_M644_breakout_v1.2d/Pictures/M644_breakout_v1.2d_pinmap.png" alt="m1284p pinmap" width="50%" height="50%">
+<img src="../SD_CARD_and_SPI_FLASH_v2.2/Pictures/SD_CARD_and_SPI_FLASH_v2.2_3D_top.png" alt="m1284p 3D top" width="50%" height="50%">
 
 ## Author
 * **Ibragimov Maksim aka maxxir**
-08/04/2019
+22/04/2019
