@@ -1,4 +1,4 @@
-# AtMega 8535/16/32/324/644/1284 generic board
+# SD Card and SPI FLASH reader for 5V TTL MCU
 
 ### Briefly about the features of the scheme:
 * Nearly all GPIO pins connected to PLS terminals.
